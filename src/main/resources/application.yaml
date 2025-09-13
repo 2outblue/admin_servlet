@@ -33,3 +33,4 @@ app:
   url:
     login: http://localhost:8095/auth/login
     refresh: http://localhost:8095/auth/refresh
+    actuator-manage: http://localhost:8095/manage
